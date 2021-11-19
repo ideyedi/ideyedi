@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - I’m working on WeMakePrice
-- I’m currently learning Machine Learning
+- I’m currently studying Machine Learning
