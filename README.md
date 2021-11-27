@@ -3,6 +3,10 @@
 
 Here are some ideas to get you started:
 
+### Hi there 👋
+- I’m working on WeMakePrice
+- currently studying Machine Learning
+- Recommended system, unsupervised-learning
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-- I’m working on WeMakePrice
-- currently studying Machine Learning
-- Recommended system, unsupervised-learning
+I’m working on WeMakePrice and currently studying Machine Learning 🌱  
+> Recommended system, unsupervised-learning
 
+----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
