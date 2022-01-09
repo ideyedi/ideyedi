@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 I’m working on WeMakePrice and currently studying Machine Learning 🌱  
-- Recommended system, unsupervised-learning
+- Recommended system
+- unsupervised-learning
 
 ----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
