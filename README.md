@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m working on WeMakePrice and currently studying Machine Learning  
+I'm a software developer at WeMakePrice and receivce Master degree of Artificial intelligence system at Hanyang university  
+Before, I was Network and Embedded software developer at Ubiquoss
 
-Interests  
-- Recommended system
-- unsupervised-learning
+My research interests include:  
+- Abnormal detecting  
+- Recommended system  
+- unsupervised-learning  
 
 Skiils  
 - Familiar with Python and Linux C, previously used Java, Go
-- Experiences in provisioning frameworks which are salt, ansible and machine learning framework pytorch ans tensorflow  
+- Experiences in provisioning frameworks which are salt, ansible and machine learning framework pytorch and tensorflow  
 
 ----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
