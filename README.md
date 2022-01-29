@@ -27,7 +27,8 @@ My research interests include:
 
 Skiils  
 - Familiar with Python and Linux C, previously used Java, Go
-- Experiences in provisioning frameworks which are salt, ansible and machine learning framework pytorch and tensorflow  
+- Experiences in provisioning frameworks which are salt, ansible
+- Experiences in machine learning framework pytorch and tensorflow  
 
 ----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
