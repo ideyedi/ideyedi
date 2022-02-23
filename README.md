@@ -21,7 +21,7 @@ I'm a software developer at WeMakePrice and receivce Master degree of Artificial
 Before, I was Network and Embedded software developer at Ubiquoss
 
 My research interests include:  
-- Abnormal detecting  
+- Computer vision
 - Recommended system  
 - unsupervised-learning  
 
