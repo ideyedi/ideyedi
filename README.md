@@ -25,7 +25,7 @@ My research interests include:
 - Recommended system  
 - unsupervised-learning  
 
-Skiils  
+Skills  
 - Familiar with Python and Linux C, previously used Java, Go
 - Experiences in provisioning frameworks which are salt, ansible
 - Experiences in machine learning framework pytorch and tensorflow  
