@@ -27,8 +27,9 @@ My research interests include:
 
 Skills  
 - Familiar with Python and Linux C, previously used Java, Go
-- Experiences in provisioning frameworks which are salt, ansible
-- Experiences in machine learning framework pytorch and tensorflow  
+- Experiences in machine learning framework Pytorch and Tensorflow  
+- Experiences in back-end framework Django, flask and SpringMVC
+- Experiences in provisioning frameworks which are SaltStack, Ansible
 
 ----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
