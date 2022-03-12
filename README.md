@@ -32,5 +32,5 @@ Skills
 - Experiences in provisioning frameworks which are SaltStack, Ansible
 
 ----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideyedi&langs_count=8&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideyedi&langs_count=8&theme=cobalt)  
