@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer at WeMakePrice and receivce Master degree of Artificial intelligence system at Hanyang university  
+I'm a SRE Software Engineer/Developer at WeMakePrice and receivce Master degree of Artificial intelligence system at Hanyang university  
 Before, I was Network and Embedded software developer at Ubiquoss
 
 My research interests include:  
