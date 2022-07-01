@@ -27,7 +27,7 @@ My research interests include:
 - AI system Optimization  
 
 Skills  
-- Familiar with Python and Linux C, previously used Java, Go
+- Familiar with Python and C/C++, previously used Java, Go
 - Experiences in machine learning framework Pytorch and Tensorflow  
 - Experiences in back-end framework Django, flask and SpringMVC
 - Experiences in provisioning frameworks which are SaltStack, Ansible
