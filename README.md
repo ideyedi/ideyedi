@@ -29,7 +29,7 @@ My research interests include:
 Skills  
 - Familiar with Python and C/C++, previously used Go
 - Experiences in machine learning framework Pytorch and Tensorflow  
-- Experiences in back-end framework Django, flask and SpringMVC
+- Experiences in back-end framework Django, FastAPI and SpringMVC
 - Experiences in provisioning frameworks which are SaltStack, Ansible
 
 Languages & Tools  
