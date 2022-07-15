@@ -22,9 +22,9 @@ receivce Master degree of Artificial intelligence system at Hanyang university
 Before, I was Network and Embedded software developer at Ubiquoss
 
 My research interests include:  
-- unsupervised-learning  
 - AI system Optimization  
 - Computer Vision  
+- Unsupervised-learning  
 
 Skills  
 - Familiar with Python and C/C++, previously used Go
