@@ -25,6 +25,7 @@ My research interests include:
 - AI system Optimization  
 - Computer Vision  
 - Unsupervised-learning  
+- MLOps  
 
 Skills  
 - Familiar with Python and C/C++, previously used Go
