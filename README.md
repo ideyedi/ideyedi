@@ -32,7 +32,7 @@ Skills
 - Experiences in machine learning framework Pytorch and Tensorflow  
 - Experiences in back-end framework FastAPI and Django
 - Experiences in provisioning frameworks which are SaltStack, Ansible  
-- Experiences with public cloud that are Azure, GCP  
+- Experiences with public cloud that are AWS, GCP
 
 Languages & Tools  
 <p align="left">
