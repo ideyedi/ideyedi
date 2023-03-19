@@ -22,9 +22,8 @@ receivce Master degree of Artificial intelligence system at Hanyang university
 Before, I was Network and Embedded software developer at Ubiquoss
 
 My research interests include:  
-- AI system Optimization  
-- Computer Vision  
-- Unsupervised-learning  
+- Backend develop  
+- AI system, platform  
 - MLOps  
 
 Skills  
@@ -43,7 +42,7 @@ Languages & Tools
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/golang-icon.svg" alt="go" width="40" height="40"/> </a>  
 
 <!-- Framework -->
-<a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/fastapi.svg" alt="fastapi" width="80" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/go-gin-icon.png" alt="gin" width="30" height="40"/> </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>  
 
