@@ -39,10 +39,11 @@ Languages & Tools
 
 <!-- Language -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/python.png" alt="python" width="40" height="40"/> </a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/golang-icon.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/golang-icon.svg" alt="go" width="40" height="40"/> </a>  
 
 <!-- Framework -->
+<a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/go-gin-icon.png" alt="gin" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/fastapi.svg" alt="fastapi" width="80" height="40"/> </a>  
 
