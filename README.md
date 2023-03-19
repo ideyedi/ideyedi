@@ -39,7 +39,7 @@ Languages & Tools
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/python.png" alt="python" width="40" height="40"/> </a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/golang-icon.svg" alt="go" width="40" height="40"/> </a>  
 
 <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  
