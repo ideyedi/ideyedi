@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer at WeMakePrice and  
+I'm a Backend/Platform software engineer at WeMakePrice and  
 receivce Master degree of Artificial intelligence system at Hanyang university  
 Before, I was Network and Embedded software developer at Ubiquoss
 
