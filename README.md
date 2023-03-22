@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 I'm a Backend/Platform software engineer at WeMakePrice and  
-receivce Master degree of Artificial intelligence system at Hanyang university  
-Before, I was Network and Embedded software developer at Ubiquoss
+receivce Master degree of Artificial intelligence system from Hanyang university  
+Previously, I worked as a network and embedded software developer at Ubiquity.
 
 My research interests include:  
 - Backend develop  
