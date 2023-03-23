@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a SRE software engineer at WeMakePrice and  
+I'm a SRE, Software engineer at WeMakePrice and  
 receivce Master degree of Artificial intelligence system from Hanyang university  
 Previously, I worked as a network and embedded software developer at Ubiquity.
 
 My research interests include:  
-- Backend develop  
 - Site reliability engineering  
-- MLOps  
+- AI, MLOps    
 
 Skills  
 - Familiar with Python and C/C++, previously used Go
