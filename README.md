@@ -22,14 +22,14 @@ receivce Master degree of Artificial intelligence system from Hanyang university
 Previously, I worked as a network and embedded software developer at Ubiquity.
 
 My research interests include:  
-- DevOps, SRE
-- K8S, Backend
+- Backend, DevOps
+- K8S, Public Cloud
 - AI, MLOps    
 
 Skills  
-- Familiar with Python and C/C++, previously used Go
+- Familiar with Java and Python, previously used Go
 - Experiences in machine learning framework Pytorch and Tensorflow  
-- Experiences in back-end framework FastAPI and Django
+- Experiences in back-end framework SpringBoot, FastAPI and Django
 - Experiences in provisioning frameworks which are SaltStack, Ansible  
 - Experiences with public cloud that are AWS, GCP
 
