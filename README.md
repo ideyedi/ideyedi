@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a Software engineer at WeMakePrice and  
 receivce Master degree of Artificial intelligence system from Hanyang university  
-Previously, I worked as a network and embedded software developer at Ubiquity.
+Previously, I worked as a network and embedded software developer at Ubiquess.
 
 My research interests include:  
 - Backend, DevOps
