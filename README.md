@@ -24,7 +24,7 @@ Previously, I worked as a network and embedded software developer at ubiquoss.
 My research interests include:  
 - Backend, DevOps
 - K8S, Public Cloud
-- AI, MLOps    
+- AI, AI System Optimization  
 
 Skills  
 - Familiar with Java and Python, previously used Go
