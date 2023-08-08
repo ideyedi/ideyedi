@@ -22,7 +22,7 @@ receivce Master degree of Artificial intelligence system from Hanyang university
 Previously, I worked as a network and embedded software developer at ubiquoss.
 
 My research interests include:  
-- Backend, DevOps
+- Backend, SRE
 - K8S, Public Cloud
 - AI, AI System Optimization  
 
