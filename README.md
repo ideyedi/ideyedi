@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software engineer at Aimmo and  
-receivce Master degree of Artificial intelligence system from Hanyang university  
-Previously, I worked as a network and embedded software developer at ubiquoss.
+receivce master's degree of Artificial intelligence system from Hanyang university  
+Previously, I worked at ubiquoss as a network and embedded software developer and WeMakePrice as an SRE Developer.
 
 My research interests include:  
 - Backend, SRE
