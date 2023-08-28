@@ -28,11 +28,11 @@ My research interests include:
 - AI, AI System Optimization  
 
 Skills  
-- Familiar with Java and Python, previously used Go
+- Familiar with Java and Python, previously used Go  
+- Experiences in back-end framework SpringBoot, FastAPI and flask  
+- Experiences with public cloud that are AWS, GCP  
 - Experiences in machine learning framework Pytorch and Tensorflow  
-- Experiences in back-end framework SpringBoot, FastAPI and Django
 - Experiences in provisioning frameworks which are SaltStack, Ansible  
-- Experiences with public cloud that are AWS, GCP
 
 Languages & Tools  
 <p align="left">
