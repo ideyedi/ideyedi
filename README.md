@@ -23,7 +23,7 @@ Previously, I worked at ubiquoss as a network and embedded software developer
 and WeMakePrice as an SRE platform developer.
 
 My research interests include:  
-- Backend, SRE
+- Backend, Site-Reliability Engineering (SRE)  
 - K8S, Public Cloud
 - AI, AI System Optimization  
 
