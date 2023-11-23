@@ -28,7 +28,7 @@ My research interests include:
 - AI, AI System Optimization  
 
 Skills  
-- Familiar with Java and Python, previously used Go  
+- Familiar with Java and Python
 - Experiences in back-end framework SpringBoot, FastAPI and Flask  
 - Experiences with public cloud that are AWS, GCP  
 - Experiences in machine learning framework Pytorch and Tensorflow  
@@ -40,7 +40,6 @@ Languages & Tools
 <!-- Language -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/python.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/golang-icon.svg" alt="go" width="40" height="40"/> </a>  
 
 <!-- Framework -->
 <a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
