@@ -39,7 +39,7 @@ Languages & Tools
 
 <!-- Language -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/python.png" alt="python" width="40" height="40"/> </a>
-<a href="https://docs.oracle.com/en/java/javase/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://docs.oracle.com/en/java/javase/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="c" width="40" height="40"/> </a>
 
 <!-- Framework -->
 <a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://github.com/ideyedi/ideyedi/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
