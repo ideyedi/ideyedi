@@ -30,7 +30,7 @@ My research interests include:
 Skills  
 - Familiar with Java and Python
 - Experiences in back-end framework SpringBoot, FastAPI and Flask  
-- Experiences with public cloud that are AWS, GCP  
+- Experiences with public cloud that are Azure  
 - Experiences in machine learning framework Pytorch and Tensorflow  
 - Experiences in provisioning frameworks which are SaltStack, Ansible  
 
