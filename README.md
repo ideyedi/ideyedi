@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a Software engineer at Aimmo and  
 receivce master's degree of Artificial intelligence system from Hanyang university  
-Previously, I worked at ubiquoss as a network and embedded software developer  
+Previously, I worked at ubiquoss as a L2/L3 embedded software developer  
 and WeMakePrice as an SRE platform developer.
 
 My research interests include:  
