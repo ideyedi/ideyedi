@@ -21,19 +21,24 @@ I hold a **Master’s degree in Artificial Intelligence Systems** from **Hanyang
 My professional journey spans across diverse domains: from developing **L2/L3 embedded software** at **Ubiquoss** to building **SRE platforms** at **WeMakePrice**, and most recently, managing infrastructure at **Aimmo**. 
 Currently, I specialize in **Kubernetes (EKS)**, **Terraform**, and **PostgreSQL** optimization. 
 
-My research interests include:  
-- Backend, Platform engineering  
-- K8S, Public Cloud, SRE
-- AI, AI System Optimization  
+## 💼 Experience
+* **Danbi Education** | AWS SRE & DevOps Engineer (Current)
+* **Aimmo** | Software Engineer
+* **WeMakePrice** | SRE Platform Developer
+* **Ubiquoss** | L2/L3 Embedded Software Developer
 
-Skills  
+## 🛠 Tech Stack
 - Familiar with Java and Python
 - Experiences in back-end framework SpringBoot, FastAPI and Flask  
 - Experiences with public cloud that are Azure  
 - Experiences in machine learning framework Pytorch and Tensorflow  
 - Experiences in provisioning frameworks which are SaltStack, Ansible  
 
-Languages & Tools  
+## 🎓 Languages & Tools  
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+
 <p align="left">
 
 <!-- Language -->
