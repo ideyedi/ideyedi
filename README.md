@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an **AWS SRE & DevOps Engineer**, where I orchestrate scalable and resilient cloud infrastructures. 
+I am an **SRE & DevOps Engineer**, where I orchestrate scalable and resilient cloud infrastructures. 
 I hold a **Master’s degree in Artificial Intelligence Systems** from **Hanyang University**, which fuels my analytical approach to system reliability. 
 My professional journey spans across diverse domains: from developing **L2/L3 embedded software** at **Ubiquoss** to building **SRE platforms** at **WeMakePrice**, and most recently, managing infrastructure at **Aimmo**. 
 Currently, I specialize in **Kubernetes (EKS)**, **Terraform**, and **PostgreSQL** optimization. 
