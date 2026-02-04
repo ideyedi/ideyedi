@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm a Software engineer at Aimmo and  
-receivce master's degree of Artificial intelligence system from Hanyang university  
-Previously, I worked at ubiquoss as a L2/L3 embedded software developer  
-and WeMakePrice as an SRE platform developer.
+I am an **AWS SRE & DevOps Engineer**, where I orchestrate scalable and resilient cloud infrastructures. 
+I hold a **Master’s degree in Artificial Intelligence Systems** from **Hanyang University**, which fuels my analytical approach to system reliability. 
+My professional journey spans across diverse domains: from developing **L2/L3 embedded software** at **Ubiquoss** to building **SRE platforms** at **WeMakePrice**, and most recently, managing infrastructure at **Aimmo**. 
+Currently, I specialize in **Kubernetes (EKS)**, **Terraform**, and **PostgreSQL** optimization. 
 
 My research interests include:  
 - Backend, Platform engineering  
