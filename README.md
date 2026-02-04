@@ -64,5 +64,4 @@ Currently, I specialize in **Kubernetes (EKS)**, **Terraform**, and **PostgreSQL
 </p>
 
 ----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideyedi&langs_count=4&theme=cobalt)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideyedi)](https://github.com/anuraghazra/github-readme-stats)
